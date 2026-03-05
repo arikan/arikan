@@ -1,4 +1,4 @@
-## Hi there 👋
+## Burak Arikan
 
 Systems architect exploring coordination systems, network intelligence, and multi-agent environments.
 
