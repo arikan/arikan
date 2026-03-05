@@ -1,12 +1,10 @@
-## Burak Arikan
-
 Systems architect exploring coordination systems, network intelligence, and multi-agent environments.
 
 Founder of [Graph Commons](https://graphcommons.com), a collaborative platform for mapping and analyzing complex networks.
 
 ### Current Work
 - ARIA — multi-agent economic environments for AI training
-- Graph Commons AI — language-to-graph and graph-to-language interfaces
+- Graph Commons AI — language-to-graph generation and graph-to-language interfaces
 
 ### Research Interests
 - Multi-agent coordination
