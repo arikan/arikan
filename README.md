@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**arikan/arikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems architect exploring coordination systems, network intelligence, and multi-agent environments.
 
-Here are some ideas to get you started:
+Founder of [Graph Commons](https://graphcommons.com), a collaborative platform for mapping and analyzing complex networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Work
+- ARIA — multi-agent economic environments for AI training
+- Graph Commons AI — language-to-graph and graph-to-language interfaces
+
+### Research Interests
+- Multi-agent coordination
+- Economic mechanisms and incentive design
+- Network intelligence systems
+- Verifiable governance for autonomous systems
+
+### Selected Projects
+- [Graph Commons](https://github.com/graphcommons/)
+- [Prompts Studio](https://github.com/prompts-studio/)
+- [Meta-Markets](https://www.burak-arikan.com/meta-markets)
